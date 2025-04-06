@@ -8,7 +8,7 @@ export default function Header() {
           <h1 className="text-center text-3xl font-bold md:text-4xl bg-clip-text text-transparent bg-gradient-to-r from-yellow-400 to-orange-100 drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)]">
             Shree Ram HD Photos
           </h1>
-          <p className="mt-2 text-center text-sm md:text-base">High Quality Images for Ram Navami</p>
+          <p className="mt-2 text-center text-sm md:text-base">High Quality Images for Ram Navami Jai hanuman </p>
         </Link>
       </div>
     </header>
